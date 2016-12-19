@@ -1,0 +1,23 @@
+body {
+	
+	background-color: #708090;
+	}
+	header {
+		margin-bottom: 5%;
+	}	
+	nav {
+		margin-left: 10%
+	}
+	div {
+		float: left;
+	}
+.container {
+			
+		margin: 0 auto;
+	}
+a {
+	color: white;
+	text-decoration: none;
+	font-size: 2rem;
+	margin-right: 1em;
+	}
